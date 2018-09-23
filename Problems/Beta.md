@@ -18,6 +18,6 @@ Tips
     lulz](https://en.wikipedia.org/wiki/LulzSec#Ideology)
 
 Week 1
-[Contest Codeforces Round #511 (Div. 2)](https://codeforces.com/contest/1047)
+  * [Contest Codeforces Round #511 (Div. 2)](https://codeforces.com/contest/1047)
 Solution
-[Editorial and solution](https://codeforces.com/blog/entry/61993)
+  * [Editorial and solution](https://codeforces.com/blog/entry/61993)
