@@ -1,4 +1,5 @@
-# Problemas de preparación para el concurso (Contest)[https://codeforces.com/contests/1044]
+# Problemas de preparación para el concurso [Contest](https://codeforces.com/contests/1044)
+
 
 Add  th first problems for preparing for the next contest: *Lyft Level 5 Challenge 2018*(04/Nov/2018) with level and Div 2 on codeForce.
 
@@ -18,6 +19,6 @@ Tips
     lulz](https://en.wikipedia.org/wiki/LulzSec#Ideology)
 
 Week 1
-[Contest Codeforces Round #511 (Div. 2)](https://codeforces.com/contest/1047)
+  * [Contest Codeforces Round #511 (Div. 2)](https://codeforces.com/contest/1047)
 Solution
-[Editorial and solution](https://codeforces.com/blog/entry/61993)
+  * [Editorial and solution](https://codeforces.com/blog/entry/61993)
