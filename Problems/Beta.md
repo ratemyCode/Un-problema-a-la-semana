@@ -1,10 +1,10 @@
-# Problemas de preparación para el concurso (Contest)[https://codeforces.com/contests/1044]#
+# Problemas de preparación para el concurso (Contest)[https://codeforces.com/contests/1044]
 
 Add  th first problems for preparing for the next contest: *Lyft Level 5 Challenge 2018*(04/Nov/2018) with level and Div 2 on codeForce.
 
 Rules in this group:
 1.- Do the contest with time Max 2.5 hours (like a official contest)
-2.- Finish the problems before the next sunday
+2.- Finish the problems before the next sundaythey problems
 
 Tips
   * Read all problems firts (search the easy problem)
